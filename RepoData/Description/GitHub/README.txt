@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️ Android x64: The Heavy build for Android 5.1, a powerful, but large Android 5.1 (Lollipop) alternative installation
